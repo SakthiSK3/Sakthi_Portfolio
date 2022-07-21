@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'sakthikrishnan143@gmail.com',
+    email: 'sakthi.sk.jai@gmail.com',
     phone: '+918220648679',
     address: 'Bangalore, Karnataka - 560068 ',
     sheetAPI: ''
